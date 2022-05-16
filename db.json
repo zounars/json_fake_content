@@ -1,0 +1,49 @@
+{
+  "posts": [
+  {
+    "id": 1,
+    "npi": 1234567890,
+    "nom": "Tonton",
+    "prenom": "Michel",
+    "date_de_naissance": "19/04/2022",
+    "cv": 123,
+    "cvNew": ""
+  },
+  {
+    "id": 2,
+    "npi": 2234567890,
+    "nom": "Codjo",
+    "prenom": "Jean",
+    "date_de_naissance": "22/04/2020",
+    "cv": 123,
+    "cvNew": ""
+  },
+  {
+    "id": 3,
+    "npi": 3234567890,
+    "nom": "Koffi",
+    "prenom": "Marc",
+    "date_de_naissance": "01/04/1950",
+    "cv": 123,
+    "cvNew": ""
+  },
+  {
+    "id": 4,
+    "npi": 4234567890,
+    "nom": "Houessi",
+    "prenom": "Germaine",
+    "date_de_naissance": "10/02/1956",
+    "cv": 124,
+    "cvNew": ""
+  },
+  {
+    "id": 5,
+    "npi": 5234567890,
+    "nom": "Kokou",
+    "prenom": "Julie",
+    "date_de_naissance": "30/09/1985",
+    "cv": 124,
+    "cvNew": ""
+  }
+]
+}
